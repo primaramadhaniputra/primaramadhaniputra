@@ -2,7 +2,7 @@
 - 👀 I’m interested in sleep
 - 🌱 I’m currently learning for better sleep
 - 💞️ I’m looking to collaborate on sleep
-- 📫 How to reach me sleep
+- 📫 How to reach my sleep
 
 THE ART OF SLEEP
 
