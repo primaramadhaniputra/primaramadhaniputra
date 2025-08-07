@@ -37,11 +37,6 @@
 
 ---
 
-### 🐍 Snake Contribution Animation
-![snake gif](https://github.com/primaramadhani/primaramadhani/blob/output/github-contribution-grid-snake.svg)
-
----
-
 ### 🧠 Random Quote to Live By
 
 > “Any sufficiently advanced technology is indistinguishable from magic.” — Arthur C. Clarke
@@ -51,13 +46,13 @@
 ### ☕ Let’s Connect!
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/your-link" target="_blank">
+  <a href="https://www.linkedin.com/in/prima-ramadhani-putra-642378227" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Dani-informational?style=flat&logo=linkedin&logoColor=white&color=0A66C2"/>
   </a>
-  <a href="mailto:your.email@example.com">
+  <a href="mailto:primaramadhanip@gmail.com">
     <img src="https://img.shields.io/badge/Email-primaramadhani-informational?style=flat&logo=gmail&logoColor=white&color=D14836"/>
   </a>
-  <a href="https://yourwebsite.dev" target="_blank">
+  <a href="https://portfolio-amber-two-91.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-Visit-informational?style=flat&logo=web&logoColor=white&color=orange"/>
   </a>
 </p>
