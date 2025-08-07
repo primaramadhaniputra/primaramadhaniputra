@@ -32,8 +32,7 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=primaramadhani&show_icons=true&theme=radical&count_private=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=primaramadhani&layout=compact&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=primaramadhaniputra&show_icons=true&theme=radical&hide_title=true&count_private=true" alt="Prima's GitHub Stats" height="150"/>
 </p>
 
 ---
