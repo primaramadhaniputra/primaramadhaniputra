@@ -6,73 +6,104 @@
 ██████╦╝██████╦╝██║██║░╚███║██║  ╚█████╔╝██████╦╝╚█████╔╝
 ╚═════╝░╚═════╝░╚═╝╚═╝░░╚══╝╚═╝  ░╚════╝░╚═════╝░░╚════╝░
 -->
+
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=32F7E7&vCenter=true&width=600&lines=👾+Welcome+to+the+Digital+Realm+of+Prima+Ramadhani!+👾;🚀+Full-stack+Sorcerer+|+Open+Source+Alchemist+|+Code+Visionary+🚀" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&pause=800&color=FF00F7&center=true&width=700&lines=🌌+Welcome+to+Prima's+Universe!+🌌;👾+Dev.+Dreamer.+Disruptor.+👾;💥+Where+Code+Meets+Cosmos...+💥" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <img src="https://github.com/primaramadhaniputra/primaramadhaniputra/blob/main/assets/cosmic.gif" width="300" alt="Cosmic Animation" />
+  <img src="https://media.giphy.com/media/d31w24psGYeekCZy/giphy.gif" width="340" alt="Cosmic Animation" />
 </p>
 
 ---
 
-## 🌌 The Legend of Prima Ramadhani
+## 🚀 **Prima Ramadhani: The Quantum Coder** 🚀
 
-> _“In a world where code is magic and innovation the quest, a digital explorer named **Prima** bends the rules of reality with every keystroke...”_
+> “Some write code. _Prima_ bends reality.”
 
 ---
 
+<div align="center">
+  <img src="https://github.com/primaramadhaniputra/primaramadhaniputra/blob/main/assets/neon-divider.svg" width="80%" alt="Neon Divider"/>
+</div>
+
+---
+
+### 🧬 **About Me — A Choose-Your-Adventure Experience**
 <details>
-<summary>🪐 <b>Choose your adventure</b></summary>
-
-- 👨‍💻 **Origin Story:** Born from stardust and silicon, Prima hacks the Matrix with style and curiosity.
-- 🔮 **Skills & Tech Power-Ups:**  
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=javascript) ![Python](https://img.shields.io/badge/-Python-000?&logo=python) ![Go](https://img.shields.io/badge/-Go-000?&logo=go) ![React](https://img.shields.io/badge/-React-000?&logo=react) ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js) ![Docker](https://img.shields.io/badge/-Docker-000?&logo=docker)
-- 🏆 **Epic Quests:**  
-  - 🧙‍♂️ Built magical full-stack apps  
-  - 🚀 Automated workflows that save hours  
-  - 🌱 Mentored fellow explorers
-- 🎲 **Random Fun Fact:**  
-  <img src="https://readme-jokes.vercel.app/api?hideBorder" alt="Joke" />
+  <summary><b>🌠 Origin: Stardust & Syntax</b></summary>
+  Prima is a digital architect, born in the nebula of creativity and raised by algorithms. Writes code that pulses with cosmic energy.
+</details>
+<details>
+  <summary><b>⚡ Powers: Next-Level Tech Mastery</b></summary>
+  <p>
+    <img src="https://img.shields.io/badge/JavaScript-FF00F7?style=flat-square&logo=javascript&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Python-FF00F7?style=flat-square&logo=python&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Go-FF00F7?style=flat-square&logo=go&logoColor=white"/>
+    <img src="https://img.shields.io/badge/React-FF00F7?style=flat-square&logo=react&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Node.js-FF00F7?style=flat-square&logo=nodedotjs&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Docker-FF00F7?style=flat-square&logo=docker&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Galactic+Debugging-FF00F7?style=flat-square"/>
+  </p>
+</details>
+<details>
+  <summary><b>🛸 Fun Fact Generator</b> (Refresh for a new one!)</summary>
+  <img src="https://readme-jokes.vercel.app/api?theme=tokyonight&hideBorder" alt="Random Joke" />
+</details>
+<details>
+  <summary><b>🦄 Dream Projects</b></summary>
+  <ul>
+    <li>💡 Building AI that writes poetry in binary</li>
+    <li>🌌 Open-source cosmic visualizer</li>
+    <li>🪐 Launching code to the edge of the universe</li>
+  </ul>
 </details>
 
 ---
 
-## 🌠 Stats from the Outer Rim
+<div align="center">
+  <img src="https://github.com/primaramadhaniputra/primaramadhaniputra/blob/main/assets/neon-divider.svg" width="80%" alt="Neon Divider"/>
+</div>
+
+---
+
+## 🛰️ **Prima’s Code Constellations**
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=primaramadhaniputra&show_icons=true&theme=tokyonight&hide_title=true&count_private=true" alt="Prima's GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=primaramadhaniputra&theme=neon-dark&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=primaramadhaniputra&show_icons=true&theme=radical&hide_title=true&count_private=true" alt="Prima's GitHub Stats" height="150"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=primaramadhaniputra&theme=radical&hide_border=true" alt="GitHub Streak" height="150"/>
 </p>
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=primaramadhaniputra&theme=onestar&no-frame=true&column=7" alt="Trophy" />
+  <img src="https://github-profile-trophy.vercel.app/?username=primaramadhaniputra&theme=dracula&no-frame=true&column=7" alt="Trophy" />
 </p>
 
 ---
 
-## 🦾 Power-Ups & Achievements
+## 🎮 **Power-Ups Unlocked**
 
-- 💡 Always learning, always shipping 🚢
-- 🌏 Collaborating across the globe
-- 🥷 Debugging like a code ninja
-- 🧩 Building the future, one commit at a time
+- 🧙‍♂️ Code Wizardry: Full-stack conjuring & next-gen apps
+- 🤖 AI/ML Alchemy: Teaching machines to dream
+- 🌏 Global Collabs: Building the future, one commit at a time
+- 🦾 Automation Overlord: Making the impossible automatic
 
 ---
 
-## 💬 Connect with the Cosmic Coder
+## 🎤 **Contact & Collab Portals**
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-32F7E7?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/primaramadhaniputra)
-[![Twitter/X](https://img.shields.io/badge/-X-32F7E7?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/primaramadhaniputra)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-32F7E7?style=flat-square&logo=about-dot-me&logoColor=white)](https://primaramadhaniputra.dev)
+<p align="center">
+  <a href="https://linkedin.com/in/primaramadhaniputra"><img src="https://img.shields.io/badge/LinkedIn-FF00F7?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://twitter.com/primaramadhaniputra"><img src="https://img.shields.io/badge/X-FF00F7?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+  <a href="https://primaramadhaniputra.dev"><img src="https://img.shields.io/badge/Portfolio-FF00F7?style=for-the-badge&logo=about-dot-me&logoColor=white"/></a>
+</p>
 
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=3000&color=32F7E7&width=600&lines=🔥+%22Code+is+my+wand.+Imagination+my+spell.%22+🔥" alt="Motto" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&pause=1000&color=FF00F7&width=700&lines=✨+%22In+the+galaxy+of+code,+be+a+supernova.%22+✨" alt="Motto" />
 </p>
 
 ---
 
 <!--
-✨ This README was conjured by GitHub Copilot, just for you. ✨
+👽 Crafted by Copilot with cosmic creativity for Prima Ramadhani. 🚀
 -->
