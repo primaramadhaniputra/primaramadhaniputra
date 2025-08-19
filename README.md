@@ -29,17 +29,9 @@
 
 ---
 
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=primaramadhaniputra&show_icons=true&theme=radical&hide_title=true&count_private=true" alt="Prima's GitHub Stats" height="150"/>
-</p>
-
----
-
 ### 🧠 Random Quote to Live By
 
-> “Any sufficiently advanced technology is indistinguishable from magic.” — Arthur C. Clarke
+> “Let me double your company income” — Me
 
 ---
 
