@@ -29,12 +29,6 @@
 
 ---
 
-### 🧠 Random Quote to Live By
-
-> “Let me double your company income” — Me
-
----
-
 ### ☕ Let’s Connect!
 
 <p align="center">
